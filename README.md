@@ -178,6 +178,7 @@ Server:
 ```json
 {"cmd":"GET_UPTIME","value":"up 2 hours"}
 ```
+![BMC-COPY](BMC.png)
 
 ## 7. Architecture
 
